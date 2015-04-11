@@ -1,6 +1,9 @@
 '''
 encryption/decryption using DES
 written by Michael Neary <mneary1@umbc.edu>
+
+
+THIS IS NOT FINISHED!!!
 '''
 
 import sys,os
